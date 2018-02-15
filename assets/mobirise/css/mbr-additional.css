@@ -618,6 +618,10 @@ h6,
 #ext_menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#social-buttons2-1a .mbr-section-title,
+#social-buttons2-1a .btn-social {
+  color: #232323;
+}
 
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
@@ -682,9 +686,6 @@ h6,
   color: #c0a375!important;
 }
 #features1-w .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
-#features1-11 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
 #form1-10 .form-control-label {
