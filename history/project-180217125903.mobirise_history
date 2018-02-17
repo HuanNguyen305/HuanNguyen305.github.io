@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -540,7 +540,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/event-featured-craig-koscho-1516320336-1400x965.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sacstate-lowergallery-1000x480-1-1000x480.jpg",
               "link": "education.html",
               "alt": "",
               "title": ""

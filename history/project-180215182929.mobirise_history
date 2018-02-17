@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "education.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -28,13 +28,15 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 86,
+    "uniqCompNum": 79,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/580b585b2edbce24c47b276e-128x128-2.png",
+    "favicon": "@PROJECT_PATH@/assets/images/580b585b2edbce24c47b276e-128x128_2.png",
     "noImageResize": "",
     "scroll-to-top": "on",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Huan's%20PC/Desktop/EZmic%20Website/Portfolio/huannguyen305.github.io",
     "global-footer": "",
     "google-analytics": "",
     "siteUrl": "undefined"
@@ -368,7 +370,7 @@
             }
           },
           "title": "About me",
-          "text": "I am a computer engineering student currently attending my Junior year of college at &nbsp;California State University, Sacramento. I was born in Vietnam and came to American at the age of 5. I enjoy spending my time 3D printing. running., and learnign about investing.<br><br>February 2018&nbsp;<br>",
+          "text": "I am a computer engineering student currently attending my Junior year of college at &nbsp;California State University, Sacramento. I was born in Vietnam and came to American at the age of 5. I enjoy spending my time 3D printing. running., and investing.<br><br>February 2018&nbsp;<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -540,10 +542,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/event-featured-craig-koscho-1516320336-1400x965.jpg",
+              "src": "@PROJECT_PATH@assets/images/sacstate_lowergallery_1000x480-1-1000x480.jpg",
               "link": "education.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -626,101 +629,6 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-1z"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2d"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": true,
-            "count": "2",
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.2
-          },
-          "title": "Activities and Accomplishment",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "Micromouse Competition 1st Place",
-              "authorBio": "December 2015",
-              "text": "Competed in Micromouse Competition and won first place during the first semester at California State Univeristy, Sacramento",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "IEEE Vice-President",
-              "authorBio": "December 2016 - September 2017",
-              "text": "<p>Elected as Vice-President of the IEEE Student Council at California State University, Sacramento&nbsp;</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            }
-          ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials2",
-          "_anchor": "testimonials2-2b"
         },
         {
           "_styles": {
@@ -878,7 +786,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/front-view-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/front_view-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/front-view-2000x1500-800x600.jpg",
                 "alt": "",
                 "caption": "<a href=\"project_micromouse.html\">Micromouse</a>",
@@ -1646,7 +1554,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/front-view-2000x1500.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front_view-2000x1500.jpg",
               "link": "projects_micromouse_yamcha.html",
               "alt": "",
               "title": "",

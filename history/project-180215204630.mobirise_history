@@ -32,9 +32,11 @@
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/580b585b2edbce24c47b276e-128x128-2.png",
+    "favicon": "@PROJECT_PATH@/assets/images/580b585b2edbce24c47b276e-128x128_2.png",
     "noImageResize": "",
     "scroll-to-top": "on",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Huan's%20PC/Desktop/EZmic%20Website/Portfolio/huannguyen305.github.io",
     "global-footer": "",
     "google-analytics": "",
     "siteUrl": "undefined"
@@ -540,7 +542,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/event-featured-craig-koscho-1516320336-1400x965.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sacstate_lowergallery_1000x480-1-1000x480.jpg",
               "link": "education.html",
               "alt": "",
               "title": ""
@@ -878,7 +880,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/front-view-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/front_view-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/front-view-2000x1500-800x600.jpg",
                 "alt": "",
                 "caption": "<a href=\"project_micromouse.html\">Micromouse</a>",
@@ -1646,7 +1648,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/front-view-2000x1500.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front_view-2000x1500.jpg",
               "link": "projects_micromouse_yamcha.html",
               "alt": "",
               "title": "",
