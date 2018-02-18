@@ -545,6 +545,10 @@ h6,
 #ext_menu-4 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-2g .mbr-section-title,
+#header3-2g .mbr-section-subtitle {
+  text-align: center;
+}
 #features7-l .card-subtitle {
   color: #bcbcbc;
 }
@@ -975,4 +979,8 @@ h6,
 #ext_menu-1p .link[aria-expanded="true"],
 #ext_menu-1p .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box3-2m .mbr-section-title,
+#msg-box3-2m p {
+  color: #000;
 }
